@@ -62,7 +62,7 @@ button {
     background-color: #333;
     outline: none;
     padding: 0.5rem 1.8rem;
-    box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65)
+    box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
 }
 
 button:hover {
@@ -75,7 +75,11 @@ button:active {
 }
 
 .twitter-button:hover {
-    color: #38a1f3
+    color: #38a1f3;
+}
+
+.fa-twitter {
+    font-size: 1.5rem;
 }
 
 /* Media Query: Tablet or smaller*/
